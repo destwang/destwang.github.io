@@ -24,29 +24,25 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Baoxin Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : he/him # example: "she/her"  
+  bio              : "Researcher"
+  location         : "Beijing"
+  employer         : "iFLYTEK Research"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "destin.bxwang@gmail.com" 
 
   # Academic websites
-  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=abyLhV4AAAAJ"
-  impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : "https://www.semanticscholar.org/author/Baoxin-Wang/2118640235" # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/destwang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
