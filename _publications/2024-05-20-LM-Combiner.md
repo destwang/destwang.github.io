@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-05-20-LM-Combiner
 excerpt: ''
 date: 2024-05-20
-venue: ''
+venue: 'COLING 2024'
 paperurl: 'https://aclanthology.org/2024.lrec-main.934.pdf'
 citation: 'Yixuan Wang, <b>Baoxin Wang</b>, Yijun Liu, Dayong Wu, Wanxiang Che. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (<b>COLING 2024</b>).'
 ---
