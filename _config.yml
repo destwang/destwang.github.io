@@ -22,7 +22,7 @@ repository               : "destwang/destwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "destinwang.png"
   name             : "Baoxin Wang"
   pronouns         : he/him # example: "she/her"  
   bio              : "Researcher"
